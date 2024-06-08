@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Office\gokul\alpaca.cpp-master\alpaca.cpp-master\ggml.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Office\gokul\alpaca.cpp-master\alpaca.cpp-master\ggml.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Office\gokul\alpaca.cpp-master\alpaca.cpp-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F39FB94A-4294-3D76-8040-F5AE1DEE543B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A4DD98C2-1257-3C73-BA9C-9336B2E58455}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
